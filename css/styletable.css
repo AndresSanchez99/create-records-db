@@ -1,0 +1,15 @@
+table {
+    width: 80%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 3%;
+    text-align:center;
+   vertical-align: top;
+   border: 1px solid darkcyan;
+   border-collapse: collapse;
+   
+ }
+ 
+
+  
